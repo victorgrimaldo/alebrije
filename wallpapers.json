@@ -13,6 +13,34 @@
 			"url": "https://raw.githubusercontent.com/victorgrimaldo/alebrije/master/alebrije_huasteca.jpeg",
 			"dimensions": "4608 × 3456",
 			"copyright": "Copyright ¸ 2016 Victor Grimaldo. All rights reserved."
-		}
+		},
+    		{
+			"name": "Wood",
+			"author": "Victor Grimaldo",
+			"url": "https://raw.githubusercontent.com/victorgrimaldo/alebrije/master/alebrije_wood.jpeg",
+			"dimensions": "1080 x 1920",
+			"copyright": "Copyright ¸ 2016 Victor Grimaldo. All rights reserved."
+		},
+		{
+		      "name": "Blue",
+		      "author": "Victor Grimaldo",
+		      "url": "https://raw.githubusercontent.com/victorgrimaldo/alebrije/master/alebrije_blue.jpeg",
+		      "dimensions": "1080 x 1920",
+		      "copyright": "Copyright ¸ 2016 Victor Grimaldo. All rights reserved."
+		},
+    		{
+		      "name": "Drop",
+		      "author": "Victor Grimaldo",
+		      "url": "https://raw.githubusercontent.com/victorgrimaldo/alebrije/master/alebrije_drop.jpeg",
+		      "dimensions": "1080 x 1920",
+		      "copyright": "Copyright ¸ 2016 Victor Grimaldo. All rights reserved."
+   		 },
+    		{
+		      "name": "White",
+		      "author": "Victor Grimaldo",
+		      "url": "https://raw.githubusercontent.com/victorgrimaldo/alebrije/master/alebrije_white.jpeg",
+		      "dimensions": "1080 x 1920",
+		      "copyright": "Copyright ¸ 2016 Victor Grimaldo. All rights reserved."
+    		}
 	]
 }
